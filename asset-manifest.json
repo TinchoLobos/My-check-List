@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/My-check-List/static/css/main.ae0e2e09.css",
+    "main.js": "/My-check-List/static/js/main.553f2ce8.js",
+    "static/media/pexels-olya-kobruseva-8962479.jpg": "/My-check-List/static/media/pexels-olya-kobruseva-8962479.29b969e5b7c4d794b86c.jpg",
+    "index.html": "/My-check-List/index.html",
+    "main.ae0e2e09.css.map": "/My-check-List/static/css/main.ae0e2e09.css.map",
+    "main.553f2ce8.js.map": "/My-check-List/static/js/main.553f2ce8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae0e2e09.css",
+    "static/js/main.553f2ce8.js"
+  ]
+}
